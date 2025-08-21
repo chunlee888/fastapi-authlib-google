@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+authlib[fastapi]
+python-multipart
+starlette
+python-dotenv
+itsdangerous
+httpx
